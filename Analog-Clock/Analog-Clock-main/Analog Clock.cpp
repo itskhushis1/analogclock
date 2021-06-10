@@ -5,7 +5,6 @@
 #include <graphics.h>
 #include <time.h>
 #include <dos.h>
-
 void secondPoints(int xr, int midx, int midy, int x[60], int y[60]);
 void findPoints(int angleRad, int midx, int midy, int x[12], int y[12]);
 	
